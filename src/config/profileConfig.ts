@@ -36,7 +36,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "邮箱",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "mailto:2501683533@qq.com",
 			showName: false,
 		},
 		{

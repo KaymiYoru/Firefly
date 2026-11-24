@@ -43,7 +43,7 @@ export const siteConfig: SiteConfig = {
 	title: "KaymiYoru的博客网站",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "动漫摄影剪辑爱好者博客空间",
 
 	// 站点 URL
 	site_url: "https://kaymiyoru.vercel.app/",
@@ -141,7 +141,7 @@ export const siteConfig: SiteConfig = {
 	// 分类导航栏按钮样式
 	// "pill"：胶囊，主题色浅底圆角
 	// "rectangle"：矩形，配色同胶囊，仅圆角更小
-	categoryStyle: "rectangle",
+	categoryStyle: "pill",
 
 	// 标签样式，作用于文章列表底部标签、标签页和侧边栏标签
 	// "pill"：胶囊，主题色底圆角
