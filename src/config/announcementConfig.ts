@@ -5,7 +5,7 @@ export const announcementConfig: AnnouncementConfig = {
 	title: "欢迎来我粉丝群里做客",
 
 	// 公告内容
-	content: "Mygo动漫粉丝群：817779364,炉石下棋群：854239483",
+	content: "Mygo动漫粉丝群：817779364<br />炉石下棋群：854239483",
 
 	// 是否允许用户关闭公告
 	closable: true,
