@@ -157,17 +157,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				},
 				{
 					name: "抖音",
-					icon: "fa7-solid:douyin",
+					icon: "fa7-brands:douyin",
 					url: "https://v.douyin.com/noAaeWIYe10/",
 				},
 				{
 					name: "instagram",
-					icon: "fa7-solid:instagram",
+					icon: "fa7-brands:instagram",
 					url: "https://www.instagram.com/kaymiyoru/",
 				},
 				{
 					name: "TikTok",
-					icon: "fa7-solid:TikTok",
+					icon: "fa7-brands:tiktok",
 					url: "https://www.tiktok.com/@kaymiyoru",
 				},				
 			],
