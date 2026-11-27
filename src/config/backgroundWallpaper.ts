@@ -117,8 +117,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"Welcome to KaymiYoru Bolg",
 				"绯绯狐可爱捏",
+				"找一车英英子弄你",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -142,34 +142,44 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "GitHub",
 					icon: "fa7-brands:github",
-					url: "https://github.com/CuteLeaf/Firefly",
+					url: "https://github.com/KaymiYoru",
 					showName: true,
 				},
 				{
 					name: "Email",
 					icon: "fa7-solid:envelope",
-					url: "mailto:xiaye@msn.com",
+					url: "mailto:2501683533@qq.com",
 				},
 				{
-					name: "Sponsor",
+					name: "BilBil",
 					icon: "material-symbols:favorite",
-					url: "https://blog.cuteleaf.cn/sponsor/",
+					url: "https://space.bilibili.com/545017444",
 				},
 				{
-					name: "RSS",
-					icon: "fa7-solid:rss",
-					url: "/rss/",
+					name: "抖音",
+					icon: "fa7-solid:douyin",
+					url: "https://v.douyin.com/noAaeWIYe10/",
 				},
+				{
+					name: "instagram",
+					icon: "fa7-solid:instagram",
+					url: "https://www.instagram.com/kaymiyoru/",
+				},
+				{
+					name: "TikTok",
+					icon: "fa7-solid:TikTok",
+					url: "https://www.tiktok.com/@kaymiyoru",
+				},				
 			],
 		},
 		// 壁纸轮播配置，横幅壁纸和全屏壁纸共享，仅在配置多张图片时生效
 		carousel: {
 			// 是否启用壁纸轮播；关闭时保持每次刷新随机显示一张
-			enable: false,
+			enable: true,
 			// 轮播切换间隔（毫秒）
 			interval: 5000,
 			// 过渡效果: 'fade' 渐变 | 'zoom' 缩放 | 'slide' 滑动 | 'kenburns' 旋转木马
-			transitionEffect: "zoom",
+			transitionEffect: "fade",
 		},
 	},
 	// Banner模式特有配置

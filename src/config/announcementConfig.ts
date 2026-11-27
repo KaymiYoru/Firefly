@@ -2,10 +2,10 @@ import type { AnnouncementConfig } from "../types/announcementConfig";
 
 export const announcementConfig: AnnouncementConfig = {
 	// 公告标题，留空则走i18n默认标题
-	title: "",
+	title: "欢迎来我粉丝群里做客",
 
 	// 公告内容
-	content: "欢迎关注我的哔哩哔哩空间",
+	content: "Mygo动漫粉丝群：817779364,炉石下棋群：854239483",
 
 	// 是否允许用户关闭公告
 	closable: true,
