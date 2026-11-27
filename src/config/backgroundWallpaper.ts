@@ -151,8 +151,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 					url: "mailto:2501683533@qq.com",
 				},
 				{
-					name: "BilBil",
-					icon: "material-symbols:favorite",
+					name: "哔哩哔哩",
+					icon: "fa7-brands:bilibili",
 					url: "https://space.bilibili.com/545017444",
 				},
 				{
@@ -177,7 +177,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用壁纸轮播；关闭时保持每次刷新随机显示一张
 			enable: true,
 			// 轮播切换间隔（毫秒）
-			interval: 5000,
+			interval: 50000,
 			// 过渡效果: 'fade' 渐变 | 'zoom' 缩放 | 'slide' 滑动 | 'kenburns' 旋转木马
 			transitionEffect: "fade",
 		},
