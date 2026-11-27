@@ -156,9 +156,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 					url: "https://space.bilibili.com/545017444",
 				},
 				{
-					name: "抖音",
-					icon: "fa7-brands:douyin",
-					url: "https://v.douyin.com/noAaeWIYe10/",
+					name: "小红书",
+					icon: "fa7-solid:book",
+					url: "https://www.xiaohongshu.com/user/profile/601c319d000000000101f0e8",
 				},
 				{
 					name: "instagram",
